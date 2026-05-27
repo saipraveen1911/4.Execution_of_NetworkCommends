@@ -1,4 +1,3 @@
-<img width="1608" height="632" alt="1" src="https://github.com/user-attachments/assets/c285ed67-1ef6-4481-833f-0bf4a7c7b1f4" /><img width="1910" height="1019" alt="10" src="https://github.com/user-attachments/assets/a64d90bf-e046-4a85-91ed-8657d27ad0b7" /># 4.Execution_of_NetworkCommands
 ## AIM :Use of Network commands in Real Time environment
 ## Software : Command Prompt And Network Protocol Analyzer
 ## Procedure: To do this EXPERIMENT- follows these steps:
